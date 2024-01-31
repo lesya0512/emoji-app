@@ -2,7 +2,6 @@ import { useState } from 'react';
 import './App.css';
 import EmojiList from './components/emojilist/emojilist';
 import Header from './components/header/header';
-import Input from './components/input/input';
 
  
 function App() {
@@ -9109,13 +9108,15 @@ function App() {
     }
   ]
   )
+
+  const [filteredEmoji, setFilteredEmoji] = useState(data);
+
   return (
     <div className="App">
-      <Header />
-      <Input />
+      <Header filteredEmoji={filteredEmoji} setFilteredEmoji={setFilteredEmoji} data={data}/>
 
       <main>
-        <EmojiList data={data}/>
+        <EmojiList data={filteredEmoji}/>
       </main>
     </div>
   );
