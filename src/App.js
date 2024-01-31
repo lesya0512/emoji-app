@@ -83,7 +83,7 @@ function App() {
     },
     {
       "title": "Relaxed",
-      "symbol": "☺",
+      "symbol": "😋",
       "keywords": "white smiling face happy smiley"
     },
     {
@@ -233,7 +233,7 @@ function App() {
     },
     {
       "title": "Frowning2",
-      "symbol": "☹",
+      "symbol": "🙁",
       "keywords": "white frowning face sad smiley emotion emotion"
     },
     {
@@ -593,7 +593,7 @@ function App() {
     },
     {
       "title": "Eye",
-      "symbol": "👁",
+      "symbol": "👀",
       "keywords": "eye body eyes"
     },
     {
@@ -613,7 +613,7 @@ function App() {
     },
     {
       "title": "Speaking Head",
-      "symbol": "🗣",
+      "symbol": "👤",
       "keywords": "speaking head in silhouette people talk"
     },
     {
@@ -978,7 +978,7 @@ function App() {
     },
     {
       "title": "Helmet With Cross",
-      "symbol": "⛑",
+      "symbol": "🎩",
       "keywords": "helmet with white cross object hat accessories job job"
     },
     {
@@ -1023,7 +1023,7 @@ function App() {
     },
     {
       "title": "Dark Sunglasses",
-      "symbol": "🕶",
+      "symbol": "👓",
       "keywords": "dark sunglasses fashion glasses accessories"
     },
     {
@@ -1213,7 +1213,7 @@ function App() {
     },
     {
       "title": "Spider",
-      "symbol": "🕷",
+      "symbol": "🦂",
       "keywords": "spider insects halloween animal animal"
     },
     {
@@ -1358,7 +1358,7 @@ function App() {
     },
     {
       "title": "Dove",
-      "symbol": "🕊",
+      "symbol": "🐕",
       "keywords": "dove of peace animal animal"
     },
     {
@@ -1383,7 +1383,7 @@ function App() {
     },
     {
       "title": "Chipmunk",
-      "symbol": "🐿",
+      "symbol": "🐕",
       "keywords": "chipmunk wildlife animal animal"
     },
     {
@@ -1438,7 +1438,7 @@ function App() {
     },
     {
       "title": "Shamrock",
-      "symbol": "☘",
+      "symbol": "🌿",
       "keywords": "shamrock nature plant luck leaf leaf"
     },
     {
@@ -1533,7 +1533,7 @@ function App() {
     },
     {
       "title": "Spider Web",
-      "symbol": "🕸",
+      "symbol": "🐚",
       "keywords": "spider web halloween"
     },
     {
@@ -1643,17 +1643,17 @@ function App() {
     },
     {
       "title": "Comet",
-      "symbol": "☄",
+      "symbol": "🌈",
       "keywords": "comet space sky"
     },
     {
       "title": "Sunny",
-      "symbol": "☀",
+      "symbol": "🌈",
       "keywords": "black sun with rays weather sky day sun hot hot morning morning"
     },
     {
       "title": "White Sun Small Cloud",
-      "symbol": "🌤",
+      "symbol": "🌈",
       "keywords": "white sun with small cloud weather sky cloud sun"
     },
     {
@@ -1663,32 +1663,32 @@ function App() {
     },
     {
       "title": "White Sun Cloud",
-      "symbol": "🌥",
+      "symbol": "🌈",
       "keywords": "white sun behind cloud weather sky cloud cold sun"
     },
     {
       "title": "White Sun Rain Cloud",
-      "symbol": "🌦",
+      "symbol": "🌈",
       "keywords": "white sun behind cloud with rain weather sky cloud cold rain sun"
     },
     {
       "title": "Cloud",
-      "symbol": "☁",
+      "symbol": "🌈",
       "keywords": "cloud weather sky cloud cold rain"
     },
     {
       "title": "Cloud Rain",
-      "symbol": "🌧",
+      "symbol": "🌈",
       "keywords": "cloud with rain weather winter sky cloud cold rain"
     },
     {
       "title": "Thunder Cloud Rain",
-      "symbol": "⛈",
+      "symbol": "🌈",
       "keywords": "thunder cloud and rain weather sky cloud cold rain"
     },
     {
       "title": "Cloud Lightning",
-      "symbol": "🌩",
+      "symbol": "🌈",
       "keywords": "cloud with lightning weather sky cloud cold rain"
     },
     {
@@ -1708,17 +1708,17 @@ function App() {
     },
     {
       "title": "Snowflake",
-      "symbol": "❄",
+      "symbol": "🌈",
       "keywords": "snowflake weather winter sky holidays cold snow snow"
     },
     {
       "title": "Cloud Snow",
-      "symbol": "🌨",
+      "symbol": "🌈",
       "keywords": "cloud with snow weather winter sky cloud cold snow snow"
     },
     {
       "title": "Snowman2",
-      "symbol": "☃",
+      "symbol": "🌈",
       "keywords": "snowman weather winter holidays christmas cold snow snow"
     },
     {
@@ -1728,7 +1728,7 @@ function App() {
     },
     {
       "title": "Wind Blowing Face",
-      "symbol": "🌬",
+      "symbol": "🌈",
       "keywords": "wind blowing face weather cold"
     },
     {
@@ -1738,17 +1738,17 @@ function App() {
     },
     {
       "title": "Cloud Tornado",
-      "symbol": "🌪",
+      "symbol": "🌈",
       "keywords": "cloud with tornado weather sky cold"
     },
     {
       "title": "Fog",
-      "symbol": "🌫",
+      "symbol": "🌈",
       "keywords": "fog weather sky cold"
     },
     {
       "title": "Umbrella2",
-      "symbol": "☂",
+      "symbol": "🌈",
       "keywords": "umbrella weather object sky cold"
     },
     {
@@ -1848,7 +1848,7 @@ function App() {
     },
     {
       "title": "Hot Pepper",
-      "symbol": "🌶",
+      "symbol": "🍓",
       "keywords": "hot pepper vegetables food"
     },
     {
@@ -2103,7 +2103,7 @@ function App() {
     },
     {
       "title": "Fork Knife Plate",
-      "symbol": "🍽",
+      "symbol": "🍴",
       "keywords": "fork and knife with plate object food"
     },
     {
@@ -2188,7 +2188,7 @@ function App() {
     },
     {
       "title": "Skier",
-      "symbol": "⛷",
+      "symbol": "🏒",
       "keywords": "skier hat vacation cold sport skiing"
     },
     {
@@ -2198,7 +2198,7 @@ function App() {
     },
     {
       "title": "Ice Skate",
-      "symbol": "⛸",
+      "symbol": "🏒",
       "keywords": "ice skate cold sport ice skating"
     },
     {
@@ -2278,17 +2278,17 @@ function App() {
     },
     {
       "title": "Military Medal",
-      "symbol": "🎖",
+      "symbol": "🏅",
       "keywords": "military medal object award win win"
     },
     {
       "title": "Reminder Ribbon",
-      "symbol": "🎗",
+      "symbol": "🏅",
       "keywords": "reminder ribbon award"
     },
     {
       "title": "Rosette",
-      "symbol": "🏵",
+      "symbol": "🏅",
       "keywords": "rosette tropical"
     },
     {
@@ -2298,7 +2298,7 @@ function App() {
     },
     {
       "title": "Tickets",
-      "symbol": "🎟",
+      "symbol": "🎫🎫",
       "keywords": "admission tickets theatre movie parties parties"
     },
     {
@@ -2418,7 +2418,7 @@ function App() {
     },
     {
       "title": "Race Car",
-      "symbol": "🏎",
+      "symbol": "🚗",
       "keywords": "racing car transportation car"
     },
     {
@@ -2458,7 +2458,7 @@ function App() {
     },
     {
       "title": "Motorcycle",
-      "symbol": "🏍",
+      "symbol": "🚌",
       "keywords": "racing motorcycle transportation travel bike"
     },
     {
